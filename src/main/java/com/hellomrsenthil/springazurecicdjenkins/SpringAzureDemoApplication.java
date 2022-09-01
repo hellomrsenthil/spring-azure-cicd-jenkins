@@ -22,6 +22,7 @@ public class SpringAzureDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringAzureDemoApplication.class, args);
+		System.out.println("Spring Azure Demo on Azure is running");
 	}
 
 }
